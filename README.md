@@ -1,4 +1,3 @@
-![An image of Alex holding the corn sword](https://i.imgur.com/uCgtPep.png)
 ## It's corn!
 This texture pack turns ANY sword with "corn" in the name, no matter the capitalization, into corn! As long as the word "corn" is anywhere in the name of the sword, it's texture will be turned into that of corn. It currently only works with vanilla Minecraft swords (so wood, stone, gold, iron, diamond and netherite).
 
