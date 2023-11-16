@@ -3,6 +3,6 @@ This texture pack turns ANY sword with "corn" in the name, no matter the capital
 
 
 ## **<font color="red" size="5">WARNING</font>**
-***This texture pack only works if you have one of the following mods installed***, which all support MCPatcher's Custom Item Textures:
+***This texture pack only works if you have one of the following mods installed***, which both support MCPatcher's Custom Item Textures:
 - [OptiFine](https://optifine.net/)
 - [CIT Resewn](https://modrinth.com/mod/cit-resewn) (for fabric)
